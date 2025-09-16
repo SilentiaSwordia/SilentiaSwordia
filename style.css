@@ -22,6 +22,10 @@ p {
   flex-wrap: wrap;
   gap: 600px;
   background-color: white;
+  p {
+    font-size: 20px;
+    color: white;
+  }
 }
 
 .mid-container {
@@ -30,7 +34,7 @@ p {
   justify-content: center;
   flex-wrap: wrap;
   gap: 600px;
-  background-color: darkblue;
+  background-color: rgb(125, 5, 93);
 }
 
 .footer {
@@ -39,5 +43,5 @@ p {
   justify-content: center;
   flex-wrap: wrap;
   gap: 600px;
-  background-color: darkgreen;
+  background-color: rgb(174, 160, 7);
 }
