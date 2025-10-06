@@ -45,3 +45,9 @@ p {
   gap: 600px;
   background-color: rgb(174, 160, 7);
 }
+/* This rule comes last, so it wins! */
+.btn-primary {
+  background-color: #9370db; /* A nice medium purple */
+  border-color: #7a5fb4;
+  font-weight: bold;
+}
